@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Studio",
+  "description": "An AI-powered image editor and generator. Use text prompts to edit your photos or create new images from scratch with Gemini 2.5 Flash Image and Imagen 4.0.",
+  "requestFramePermissions": []
+}
